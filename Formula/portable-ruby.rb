@@ -4,9 +4,9 @@ class PortableRuby < PortableFormula
   desc "Powerful, clean, object-oriented scripting language"
   homepage "https://www.ruby-lang.org/"
   # This is the version shipped in macOS 10.15.
-  url "https://cache.ruby-lang.org/pub/ruby/2.6/ruby-2.6.3.tar.bz2"
-  mirror "http://cache.ruby-lang.org/pub/ruby/2.6/ruby-2.6.3.tar.bz2"
-  sha256 "dd638bf42059182c1d04af0d5577131d4ce70b79105231c4cc0a60de77b14f2e"
+  url "https://cache.ruby-lang.org/pub/ruby/2.6/ruby-2.6.6.tar.bz2"
+  mirror "http://cache.ruby-lang.org/pub/ruby/2.6/ruby-2.6.6.tar.bz2"
+  sha256 "f08b779079ecd1498e6a2548c39a86144c6c784dcec6f7e8a93208682eb8306e"
   revision 2
 
   bottle do
